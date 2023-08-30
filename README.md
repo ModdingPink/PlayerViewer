@@ -1,6 +1,6 @@
 # Tricky Towers Player Viewer!
  
-![image](https://github.com/ModdingPink/PlayerViewer/assets/62712899/0ca0d57b-a93a-4a0c-9c28-76fbf7b1a49e)
+<img width="395" alt="image" src="https://github.com/ModdingPink/PlayerViewer/assets/62712899/b707867b-b087-4200-a828-ecfd902613ec">
 
 Download this version of Bepinex:
 https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x86_5.4.21.0.zip
