@@ -19,7 +19,6 @@ namespace PlayerViewer.Patches
                     if (T.transform == _wizardHUD._bottomHUDContainer.transform)
                         continue;
 
-                    Debug.Log(T.name);
                     if (T.position.y < lowestY)
                     {
                         Debug.Log("Lower: " + T.name);
