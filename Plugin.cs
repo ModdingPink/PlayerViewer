@@ -3,7 +3,7 @@ using BepInEx.Logging;
 using HarmonyLib;
 using System.Reflection;
 
-namespace ExampleMod
+namespace PlayerViewer
 {
     [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
     class Plugin : BaseUnityPlugin
